@@ -17,13 +17,13 @@ export const tools = [
       },
       {
         name: "Gemini",
-        logo: "https://www.gstatic.com/lamda/images/gemini_logo_180.svg",
+        logo: "/images/gemini.png" ,
         description: "Google's multimodal AI model for text, code, and analysis",
         website: "https://gemini.google.com"
       },
       {
         name: "DeepSeek",
-        logo: "https://deepseek.ai/favicon.ico",
+        logo: "/images/deepseek.png",
         description: "Specialized AI for deep learning and research tasks",
         website: "https://deepseek.ai"
       },
@@ -41,13 +41,13 @@ export const tools = [
     tools: [
       {
         name: "Synthesia",
-        logo: "https://www.synthesia.io/favicon.ico",
+        logo: "/images/synthesia.png",
         description: "AI video creation platform for professional content",
         website: "https://www.synthesia.io"
       },
       {
         name: "Runway",
-        logo: "https://runwayml.com/favicon.ico",
+        logo: "/images/runway.png",
         description: "Advanced AI video editing and generation tools",
         website: "https://runwayml.com"
       },
@@ -59,7 +59,7 @@ export const tools = [
       },
       {
         name: "OpusClip",
-        logo: "https://www.opus.pro/favicon.ico",
+        logo: "/images/opusclip.png",
         description: "Automated video editing and optimization",
         website: "https://www.opus.pro"
       }
@@ -77,7 +77,7 @@ export const tools = [
       },
       {
         name: "Nyota",
-        logo: "https://nyota.ai/favicon.ico",
+        logo: "/images/nyota.png",
         description: "Smart meeting notes and action item tracking",
         website: "https://nyota.ai"
       }
@@ -89,25 +89,25 @@ export const tools = [
     tools: [
       {
         name: "Rytr",
-        logo: "https://rytr.me/favicon.ico",
+        logo: "/images/rytr.png",
         description: "AI writing assistant for various content types",
         website: "https://rytr.me"
       },
       {
         name: "Sudowrite",
-        logo: "https://www.sudowrite.com/favicon.ico",
+        logo: "/images/sudowrite.png",
         description: "Creative writing assistant for authors",
         website: "https://www.sudowrite.com"
       },
       {
         name: "Grammarly",
-        logo: "https://www.grammarly.com/favicon.ico",
+        logo: "/images/grammerly.png",
         description: "AI-powered writing assistant for grammar and style",
         website: "https://www.grammarly.com"
       },
       {
         name: "Wordtune",
-        logo: "https://www.wordtune.com/favicon.ico",
+        logo: "/images/wordtune.png",
         description: "AI writing enhancement and rewriting tool",
         website: "https://www.wordtune.com"
       }
@@ -119,7 +119,7 @@ export const tools = [
     tools: [
       {
         name: "Midjourney",
-        logo: "https://www.midjourney.com/favicon.ico",
+        logo: "/images/midjourney.png",
         description: "Advanced AI image generation through Discord",
         website: "https://www.midjourney.com"
       },
@@ -137,7 +137,7 @@ export const tools = [
     tools: [
       {
         name: "Bubble",
-        logo: "https://bubble.io/favicon.ico",
+        logo: "/images/bubble.png",
         description: "No-code platform with AI capabilities",
         website: "https://bubble.io"
       },
@@ -149,7 +149,7 @@ export const tools = [
       },
       {
         name: "v0",
-        logo: "https://v0.dev/favicon.ico",
+        logo: "/images/v0.png",
         description: "AI web application generator",
         website: "https://v0.dev"
       }
@@ -167,7 +167,7 @@ export const tools = [
       },
       {
         name: "Murf",
-        logo: "https://murf.ai/favicon.ico",
+        logo: "/images/murf.png",
         description: "AI voice generator for various use cases",
         website: "https://murf.ai"
       },
