@@ -232,6 +232,7 @@ export const articles = [
     title: "Introduction to AI",
     category: "Fundamentals",
     content: "Artificial Intelligence (AI) is revolutionizing how we work and live...",
+    fullContent: "Artificial Intelligence (AI) is revolutionizing how we work and live. It encompasses a wide range of technologies, including machine learning, deep learning, natural language processing, and computer vision. AI systems can automate tasks, make predictions, and provide insights that were previously impossible. Applications of AI are rapidly expanding across industries, from healthcare and finance to transportation and entertainment.",
     readTime: "5 min"
   },
   {
@@ -239,6 +240,7 @@ export const articles = [
     title: "Prompt Engineering Guide",
     category: "Skills",
     content: "Learn how to craft effective prompts for AI models...",
+    fullContent: "Learn how to craft effective prompts for AI models. Prompt engineering is the art and science of designing effective prompts that elicit desired responses from AI models. A well-crafted prompt can significantly improve the accuracy, relevance, and creativity of AI-generated content. Key techniques include providing clear instructions, specifying the desired output format, and using examples to guide the model. Iterative refinement and experimentation are essential for optimizing prompt performance.",
     readTime: "8 min"
   },
   {
@@ -246,6 +248,7 @@ export const articles = [
     title: "AI Ethics and Responsibility",
     category: "Ethics",
     content: "Understanding the ethical implications of AI development...",
+    fullContent: "Understanding the ethical implications of AI development. AI ethics addresses the moral and social implications of AI technologies. Key concerns include bias, fairness, transparency, and accountability. Biased AI systems can perpetuate and amplify existing inequalities. Ensuring fairness requires careful attention to data collection, model design, and evaluation metrics. Transparency and explainability are crucial for building trust and enabling human oversight. Accountability mechanisms are needed to assign responsibility for AI-related harms.",
     readTime: "10 min"
   }
 ];
