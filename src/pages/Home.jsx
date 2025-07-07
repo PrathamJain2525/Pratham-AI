@@ -17,7 +17,12 @@ export default function Home() {
         </div>
 
         <div className="mt-10">
-          <SearchBar onSearch={(query) => console.log('Search:', query)} />
+          <SearchBar onSearch={(query) => {
+            if (query.trim()) {
+              console.log('Search executed:', query);
+              // Could navigate to a search results page or show modal
+            }
+          }} />
         </div>
 
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
